@@ -19,6 +19,7 @@ public class SiakadWhile20 {
             }
             if (nilai > 80 && nilai <= 100) {
                 System.out.println("Mahasiswa ke-" + (i + 1) + " lulus dengan predikat A.");
+                System.out.println("Bagus, pertahankan nilainya");
             } else if (nilai > 73 && nilai <= 80) {
                 System.out.println("Mahasiswa ke-" + (i + 1) + " lulus dengan predikat B+");
             } else if (nilai > 65 && nilai <= 73) {
